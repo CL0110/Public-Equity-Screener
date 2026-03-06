@@ -136,4 +136,4 @@ This project consists of two main scripts:
 
                                                                 ## License
 
-                                                                This project is for personal and educational use. Stock data is sourced from Yahoo Finance via the `yfinance` library and is subject to Yahoo's terms of service.
+                                                                
